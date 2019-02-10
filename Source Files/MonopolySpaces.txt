@@ -1,0 +1,52 @@
+Start,200
+Street,Old Kent Road,Brown, 60
+Chest
+Street,Whitechapel Road,Brown, 60
+Street,Elephant And Castle,Brown, 60
+Tax,200
+Station,King's Cross Station,Grey,200
+Street,The Angel Islington,Cyan,100
+Street,Euston Road,Cyan,100
+Chance
+Company,Gas Company,Black,150
+Street,Pentonville,Cyan,120
+Street,Edgware Road,Cyan,120
+Jail
+Auction
+Street,Pall Mall,Pink,140
+Street,Whitehall,Pink,140
+Company,Electric Company,Black,150
+Street,Northumberland Avenue,Pink,160
+Street,Downing Street,Pink,160
+Station,Marylebone Station,Grey,200
+Street,Bow Street,Orange,180
+Chest
+Street,Marlborough Street,Orange,180
+Street,Vine Street,Orange,200
+Street,High Holborn,Orange,200
+Parking
+Street,Strand,Red,220
+Chance
+Street,Fleet Street,Red,220
+Street,Trafalgar Square,Red,240
+Street,Aldwych,Red,240
+Bus
+Station,Fenchurch Street Station,Grey,200
+Street,Leicester Street,Yellow,260
+Street,Coventry Street,Yellow,260
+Company,Water Works,Black,150
+Street,Piccadilly,Yellow,280
+Street,Shaftesbury Avenue,Yellow,280
+To Jail
+Street,Regent Street,Green,300
+Street,Oxford Street,Green,300
+Street,Bond Street,Green,300
+Chest
+Street,Savile Row,Green,320
+Station,Liverpool Street Station,Grey,200
+Chance
+Birthday,100
+Street,Park Lane,Blue,350
+Street,Mayfair,Blue,350
+Deposit,100
+Street,Knightsbridge,Blue,400

@@ -1,0 +1,10 @@
+* ************************
+*
+* name,colour,value,price rent,price mortgage,rail depot price
+*
+* ************************
+
+Liverpool Street Station,Grey,200,25,100,100
+Fenchurch Street Station,Grey,200,25,100,100
+Marylebone Station,Grey,200,25,100,100
+King's Cross Station,Grey,200,25,100,100

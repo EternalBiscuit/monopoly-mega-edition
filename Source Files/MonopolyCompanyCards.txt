@@ -1,0 +1,10 @@
+* ************************
+*
+* name,colour,value,price rent,price mortgage
+*
+* ************************
+
+Gas Company,Black,150,1,75
+Electric Company,Black,150,1,75
+Water Works,Black,150,1,75
+

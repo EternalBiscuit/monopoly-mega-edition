@@ -1,0 +1,24 @@
+* ************************
+*
+* type,description,value
+* types: ToGo, Money, OutOfJail, ToJail, MoneyAll, MoneyProp
+*
+* ************************
+
+ToGo,Advance to Go.
+ToJail,Go to Jail. Do not pass start.
+OutOfJail,Get out of jail for free.
+Money,Bank error in your favor.,200
+Money,Doctor's fee.,-50
+Money,Sale of stock.,50
+MoneyAll,Grand Opera Night. Every player pays you for a seat!,50
+Money,Holiday Fund matures.,100
+Money,Income tax refund.,20
+Money,It is your birthday.,10
+Money,Life insurance matures.,100
+Money,Pay hospital fees.,-100
+Money,Pay school fees.,-150
+Money,Receive consultancy fee.,25
+MoneyProp,You are assessed for street repairs. ($40 per house and $115 per hotel)
+Money,You have won second prize in a beauty contest.,10
+Money,You inherit money.,100
